@@ -243,7 +243,7 @@ body {
 
 .bottom-img-container {
   display: flex;
-  background-image: url("/img/bottomImage.jpeg");
+  background-image: url("../img/bottomImage.jpeg");
   max-width: 1200px;
   height: 600px;
   margin-top: 120px;
