@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Roboto";
-  src: url("/fonts/Roboto-Regular.ttf");
+  src: url("../fonts/Roboto-Regular.ttf");
   font-style: normal;
   font-weight: 400;
 }
@@ -101,7 +101,7 @@ body {
 .image-container {
   position: relative;
   max-width: 1200px;
-  background-image: url("/img/image-wrapper-background.jpeg");
+  background-image: url("../img/image-wrapper-background.jpeg");
   padding: 48px;
 }
 
